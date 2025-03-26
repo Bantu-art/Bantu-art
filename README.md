@@ -15,7 +15,7 @@ I specialize in **Go, Node.js, and React**, building efficient and well-structur
 ### 1️⃣ API Aggregator for Real-Time Data 📡  
 📌 A backend service that fetches and merges data from multiple sources like weather, crypto prices, and news APIs.  
 - 🛠 **Tech:** Go, PostgreSQL, REST/GraphQL, Docker.  
-- 🔗 [Repo](https://github.com/yourusername/api-aggregator) | [Live Demo](#)  
+- 🔗 [Repo](https://github.com/Bantu-art/api-aggregator.git) | [Live Demo](#)  
 
 ### 2️⃣ Job Listings Scraper 🏢  
 📌 A web scraper that collects job postings from various platforms, filters them, and presents them via an API/UI.  
