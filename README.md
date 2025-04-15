@@ -1,7 +1,7 @@
 #  Brian Bantu – Full Stack Developer  
 
 👋 Hi there! I'm **Brian Bantu**, a **Full Stack Developer** passionate about **backend development, API design, and scalable systems**.  
-I specialize in **Go, Node.js, and React**, building efficient and well-structured applications.  
+I specialize in **Go, Django, Node.js, and React**, building efficient and well-structured applications.  
 
 - 🔍 **Actively learning:** Cloud computing (AWS), containerization (Docker), and microservices architecture.  
 - 🛠️ **Tech Stack:** Go, Node.js, Python (Django), PostgreSQL, MongoDB, GraphQL, React.js, Docker.  
