@@ -19,8 +19,8 @@ I specialize in **Go, Django, Node.js, and React**, building efficient and well-
 
 ### 2️⃣ Django Blog Platform 📝  
 📌 A full-featured blog platform where users can create accounts, write and publish blog posts, like posts, and engage in discussions through comments.  
-- 🛠 **Tech:** Django, PostgreSQL, Django REST Framework, React.js.  
-- 🔗 [Repo](https://github.com/Bantu-art/django-blog) | [Live Demo](#)  
+- 🛠 **Tech:** Django, SQLite, Django REST Framework.  
+- 🔗 [Repo](https://github.com/Bantu-art/Blog.git) | [Live Demo](#)  
 
 ### 3️⃣ Personal Portfolio 🌐  
 📌 A sleek, modern portfolio showcasing my projects, skills, and experience.  
