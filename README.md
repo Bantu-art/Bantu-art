@@ -17,10 +17,10 @@ I specialize in **Go, Django, Node.js, and React**, building efficient and well-
 - 🛠 **Tech:** Go, PostgreSQL, REST/GraphQL, Docker.  
 - 🔗 [Repo](https://github.com/Bantu-art/api-aggregator.git) | [Live Demo](#)  
 
-### 2️⃣ Job Listings Scraper 🏢  
-📌 A web scraper that collects job postings from various platforms, filters them, and presents them via an API/UI.  
-- 🛠 **Tech:** Node.js, Puppeteer, PostgreSQL.  
-- 🔗 [Repo](https://github.com/yourusername/job-scraper) | [Live Demo](#)  
+### 2️⃣ Django Blog Platform 📝  
+📌 A full-featured blog platform where users can create accounts, write and publish blog posts, like posts, and engage in discussions through comments.  
+- 🛠 **Tech:** Django, PostgreSQL, Django REST Framework, React.js.  
+- 🔗 [Repo](https://github.com/Bantu-art/django-blog) | [Live Demo](#)  
 
 ### 3️⃣ Personal Portfolio 🌐  
 📌 A sleek, modern portfolio showcasing my projects, skills, and experience.  
