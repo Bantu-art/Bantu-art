@@ -25,7 +25,7 @@ I specialize in **Go, Django, Node.js, and React**, building efficient and well-
 ### 3️⃣ Land Use Detection System 🌍  
 📌 A Django-based web application for analyzing and detecting changes in land usage patterns by comparing satellite or aerial images over time. Features include image upload, temporal analysis, and detailed change detection reports.  
 - 🛠 **Tech:** Django, TensorFlow, OpenCV, SQLite, Geospatial libraries.  
-- 🔗 [Repo](https://github.com/Bantu-art/land_use_detection) | [Live Demo](#)  
+- 🔗 [Repo](https://github.com/Bantu-art/land_use.git) | [Live Demo](#)  
 
 ---
 
