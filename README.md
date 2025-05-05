@@ -41,8 +41,8 @@ I specialize in **Go, Django, Node.js, and React**, building efficient and well-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bantu-art&show_icons=true&theme=radical" width="48%" alt="Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantu-art&theme=radical" width="48%" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bantu-art&show_icons=true&theme=radical" width="48%" alt="Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantu-art&theme=radical" width="48%" alt="Github Streak">
 </p>  
 
 ---
