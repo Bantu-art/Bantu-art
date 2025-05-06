@@ -4,11 +4,23 @@
 I specialize in **Go, Django, Node.js, and React**, building efficient and well-structured applications.  
 
 - 🔍 **Actively learning:** Cloud computing (AWS), containerization (Docker), and microservices architecture.  
-- 🛠️ **Tech Stack:** Go, Node.js, Python (Django), PostgreSQL, MongoDB, GraphQL, React.js, Docker.  
+
 - 🎯 **Currently working on:** API Aggregator & Job Listings Scraper.  
 - ✨ **Upcoming projects:** AI-powered Resume Analyzer, E-commerce API, Open Source Contributions.  
 
 ---
+## 🛠️ Tech Stack
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">Go</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">Node.js</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">Python</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">Django</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">PostgreSQL</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">MongoDB</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">GraphQL</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">React.js</span>
+  <span style="background-color: #FF9132; color: white; padding: 8px 15px; border-radius: 5px; font-weight: bold;">Docker</span>
+</div>
 
 ## 📌 Featured Projects  
 
