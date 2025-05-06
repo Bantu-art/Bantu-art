@@ -29,19 +29,19 @@ I specialize in **Go, Django, Node.js, and React**, building efficient and well-
 - 🛠 **Tech:** Go, PostgreSQL, REST/GraphQL, Docker.  
 - 🔗 [Repo](https://github.com/Bantu-art/api-aggregator.git) | [Live Demo](#)  
 
-### 2️⃣ Job Listings Scraper 🏢  
-📌 A web scraper that collects job postings from various platforms, filters them, and presents them via an API/UI.  
-- 🛠 **Tech:** Node.js, Puppeteer, PostgreSQL.  
-- 🔗 [Repo](https://github.com/yourusername/job-scraper) | [Live Demo](#)  
+### 2️⃣ Django Blog Platform 📝  
+📌 A full-featured blog platform where users can create accounts, write and publish blog posts, like posts, and engage in discussions through comments.  
+- 🛠 **Tech:** Django, SQLite, Django REST Framework.  
+- 🔗 [Repo](https://github.com/Bantu-art/Blog.git) | [Live Demo](#)  
 
-### 3️⃣ Personal Portfolio 🌐  
-📌 A sleek, modern portfolio showcasing my projects, skills, and experience.  
-- 🛠 **Tech:** React.js, Next.js, Tailwind CSS.  
-- 🔗 [Repo](https://github.com/yourusername/portfolio) | [Live Site](#)  
+### 3️⃣ Land Use Detection System 🌍  
+📌 A Django-based web application for analyzing and detecting changes in land usage patterns by comparing satellite or aerial images over time. Features include image upload, temporal analysis, and detailed change detection reports.  
+- 🛠 **Tech:** Django, TensorFlow, OpenCV, SQLite, Geospatial libraries.  
+- 🔗 [Repo](https://github.com/Bantu-art/land_use.git) | [Live Demo](#)  
 
 ---
 
-## 📫 Connect with Me  
+## �� Connect with Me  
 
 📍 Kisumu, Kenya  
 💼 [LinkedIn](https://www.linkedin.com/in/brian-bantu-73b8a2263/)  
@@ -53,8 +53,8 @@ I specialize in **Go, Django, Node.js, and React**, building efficient and well-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bantu-art&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantu-art&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bantu-art&show_icons=true&theme=radical" width="48%" alt="Github Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bantu-art&theme=radical" width="48%" alt="Github Streak">
 </p>  
 
 ---
